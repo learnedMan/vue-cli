@@ -4,7 +4,7 @@
       这里是scss测试
     </h1>
     <div class="storetest">{{storetest}}</div>
-    <el-button>Click Me</el-button>
+    <el-button>这是个无效的点击按钮</el-button>
   </div>
 </template>
 
