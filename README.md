@@ -1,6 +1,6 @@
 # demo
 
-> A Vue.js project
+> A Vue.js project by zhangyang
 
 ## Build Setup
 
